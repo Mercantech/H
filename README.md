@@ -14,7 +14,7 @@ MAGS Løsning til H1 - [Bilbørsen](https://github.com/Mercantech/H1-Mags)
 
 Notion forløb - [Notion](https://mercantec.notion.site/h2)
 
-Projekt skabelon - [H2](https://github.com/Mercantech/H2-Projekt)
+Projekt skabelon - [H2](https://github.com/Mercantech/H2)
 
 MAGS Løsning til H2 - [Hotel-MAGS](https://github.com/Mercantech/H2-Mags)
 
